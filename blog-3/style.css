@@ -1,0 +1,7 @@
+.jumbotron{background-color:#333;color:#cdd0d7;}
+.col-lg-4 > .col-md-12{color:#333;}
+.col-lg-4 > .col-md-12 > ul a:active{color:#cdd0d7;}
+.col-lg-4 > .col-md-12 > ul a:hover{color:#DC1C1F;}
+.col-lg-4 > .col-md-12 > ul a {color:#cdd0d7;}
+.col-lg-4 > .col-md-12 {border-style:groove;border-width:thick; background-color:#333;color:#cdd0d7;}
+
